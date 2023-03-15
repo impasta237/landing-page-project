@@ -62,7 +62,7 @@ a {
     font-size: 16px;
 }
 
-.container-one-left-box-button {
+button.container-one-left-box-button {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -179,6 +179,8 @@ a {
     border-radius: 8px;
     font-size: 16px;
     padding: 8px 16px;
+    color: white;
+    background-color: #3882f6;
 }
 
 .footer {
